@@ -1,0 +1,15 @@
+{
+  "name": "reddit-markov",
+  "version": "1.0.0",
+  "description": "takes reddit post titles and uses markov to make a new title",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markov-strings": "^2.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
